@@ -1,1 +1,3 @@
-declare function generateUUID() : `${string}-${string}-${string}-${string}-${string}`
+declare module "@qinetik/uuid" {
+    function generateUUID() : `${string}-${string}-${string}-${string}-${string}`
+}
