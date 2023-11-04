@@ -1,0 +1,11 @@
+{
+	"name": "@qinetik/uuid",
+	"version": "1.0.0",
+	"main": "dist/index.js",
+	"module": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"files": [
+		"dist/index.js",
+		"dist/index.d.ts"
+	]
+}
